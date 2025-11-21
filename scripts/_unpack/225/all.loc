@@ -3537,6 +3537,7 @@ model=model_loc_690
 length=2
 
 [dressing_screen]
+name=screen
 desc=Use this to get changed behind and retain modesty.
 model=model_loc_690
 length=2
@@ -8513,13 +8514,13 @@ model=model_loc_1549
 mirror=yes
 blockrange=no
 
-[portcullis_1l]
+[loc_1554]
 model=model_loc_47
 mirror=yes
 active=no
 blockrange=no
 
-[portcullis_1r]
+[loc_1555]
 model=model_loc_47
 active=no
 blockrange=no
@@ -10019,7 +10020,7 @@ mirror=yes
 retex1s=roof
 retex1d=thatched
 
-[sw_isle_basement_wall]
+[magicwall]
 model=model_loc_1796
 length=2
 shadow=no

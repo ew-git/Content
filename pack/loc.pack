@@ -1552,10 +1552,10 @@
 1551=loc_1551
 1552=loc_1552
 1553=loc_1553
-1554=portcullis_1l
-1555=portcullis_1r
-1556=portcullis_2l
-1557=portcullis_2r
+1554=loc_1554
+1555=loc_1555
+1556=loc_1556
+1557=loc_1557
 1558=fencegate_l
 1559=openfencegate_l
 1560=fencegate_r
@@ -1794,7 +1794,7 @@
 1793=roofedge_wooden
 1794=roofedgeoutsidewalll_thatched
 1795=roofedgeoutsidewallr_thatched
-1796=sw_isle_basement_wall
+1796=magicwall
 1797=waterfallsquishedrocks
 1798=dugupsoil1_squished
 1799=dugupsoil2_squished
